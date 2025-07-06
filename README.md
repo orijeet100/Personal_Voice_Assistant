@@ -1,5 +1,11 @@
 # 🎙️ Voice Assistant: Multi-Modal AI Assistant
 
+<a href="[https://your-destination-link.com]([https://www.linkedin.com/feed/update/urn:li:ugcPost:7345461036101124096](https://drive.google.com/file/d/1ztmDO942DQCmw1FrU6HszMPGZ7vjMBzu/view?usp=drive_link))">
+  <img src="voice_assistant_demo.png" alt="Thumbnail" width="80%">
+</a>
+
+[View this video post]([https://www.linkedin.com/feed/update/urn:li:ugcPost:7345461036101124096](https://drive.google.com/file/d/1ztmDO942DQCmw1FrU6HszMPGZ7vjMBzu/view?usp=drive_link))
+
 A sophisticated voice and text-based AI assistant that combines speech recognition, natural language processing, and integration with external services like Spotify and Gmail. Built with modern web technologies and AI capabilities.
 
 ## ✨ Features
