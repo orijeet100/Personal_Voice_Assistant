@@ -1,0 +1,17 @@
+streamlit
+streamlit-webrtc
+openai-whisper
+av
+openai
+scipy
+dotenv
+streamlit-audiorec
+spotipy
+uvicorn
+fastapi
+faiss-cpu
+sentence_transformers
+google-api-python-client
+google-auth
+google-auth-oauthlib
+crewai
